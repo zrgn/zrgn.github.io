@@ -1,0 +1,43 @@
+{
+  "name": "zargon-now.github.io",
+  "version": "1.0.0",
+  "description": "Home for zargon on the web",
+  "main": "index.js",
+  "scripts": {
+    "lint-eslint": "./node_modules/.bin/eslint Gruntfile.js",
+    "lint-md": "./node_modules/.bin/remark --no-stdout -f *.md .github/ISSUE_TEMPLATE/*.md",
+    "lint": "npm run lint-eslint && npm run lint-md",
+    "build": "npm run lint && grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "remark-preset-lint-recommended",
+      [
+        "remark-lint-final-newline",
+        false
+      ]
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zargon-now/zargon-now.github.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zargon-now/zargon-now.github.io/issues"
+  },
+  "homepage": "https://github.com/zargon-now/zargon-now.github.io#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "grunt": "^1.0.4",
+    "grunt-bower-task": "^0.5.0",
+    "grunt-contrib-clean": "^2.0.0",
+    "remark": "^10.0.1",
+    "remark-cli": "^6.0.1",
+    "remark-lint": "^6.0.4",
+    "remark-preset-lint-recommended": "^3.0.2"
+  },
+  "dependencies": {}
+}

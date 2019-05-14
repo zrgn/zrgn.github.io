@@ -1,0 +1,27 @@
+{
+  "name": "zargon-now.github.io",
+  "homepage": "https://github.com/zargon-now/zargon-now.github.io",
+  "authors": [
+    "Patrick Connelly <patrick@deadlypenguin.com>"
+  ],
+  "description": "Home of zargon on the web",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "bulma": "^0.7.4"
+  },
+  "exportsOverride": {
+    "bulma": {
+      "css": "css/*.css"
+    }
+  }
+}
