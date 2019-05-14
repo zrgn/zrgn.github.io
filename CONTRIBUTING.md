@@ -4,9 +4,9 @@ The "rules" of Zargon are not set in stone.  We want them to be sourced by our c
 
 You can use these handy links to help get you started
 
--   [Add a rule](/issues/new?template=add_rule.md)
--   [Change a rule](/issues/new?template=change_rule.md)
--   [Remove a rule](/issues/new?template=remove_rule.md)
+-   [Add a rule](https://github.com/zargon-now/zargon-now.github.io/issues/new?template=add_rule.md)
+-   [Change a rule](https://github.com/zargon-now/zargon-now.github.io/issues/new?template=change_rule.md)
+-   [Remove a rule](https://github.com/zargon-now/zargon-now.github.io/issues/new?template=remove_rule.md)
 
 If you are comfortable with development, you can also send a [pull request](http://help.github.com/pull-requests/) with the change.  We recommend creating an new issue with your pull request so that discussion on the change can happen.
 
