@@ -1,0 +1,14 @@
+<h1 class="title is-1">Rules of Zargon</h1>
+{% for order in site.data.rules.order %}
+{% assign rule_data = site.data.all_rules[order] %}
+<div class="content ruleset">
+    <h4 class="subtitle is-4">{{ rule_data.title }}</h4>
+    <ul>
+        {% for rule in rule_data.rules %}
+        <li>
+            {{ rule.text }}
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endfor %}
