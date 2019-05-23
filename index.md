@@ -8,7 +8,8 @@ Good humored, cooperative, competitive torture, for the purposes of exploring st
 
 ### Members
 
-* You may invite new members to join in gaming but they are your responsibility
+* You may invite new members to join in gaming, but they are your responsibility
+* New invitees should come to provisionary games (e.g., Friday games) for the sake of the invitee and the group
 * If the group at large does not like a guest then that guest may not be allowed at future events
 
 ### Games
