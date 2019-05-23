@@ -11,6 +11,7 @@ Good humored, cooperative, competitive, consensual torture, for the purposes of 
 * You may invite new members to join in gaming, but they are your responsibility
 * New invitees should come to provisional games (e.g., Friday games) for the sake of the invitee and the group
 * If the group at large does not like a guest then that guest may not be allowed at future events
+* Players are expected to observe basic personal hygiene
 
 ### Games
 
