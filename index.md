@@ -4,26 +4,35 @@
 
 ### Objectives
 
-Good humored, cooperative, competitive, consentual torture, for the purposes of exploring strategies, design, progess and history of gaming
+Good humored, cooperative, competitive, consensual torture, for the purposes of exploring strategies, design, progress and history of gaming
 
 ### Members
 
 * You may invite new members to join in gaming, but they are your responsibility
-* New invitees should come to provisionary games (e.g., Friday games) for the sake of the invitee and the group
+* New invitees should come to provisional games (e.g., Friday games) for the sake of the invitee and the group
 * If the group at large does not like a guest then that guest may not be allowed at future events
 
 ### Games
 
-* If after more than one explanation, and video tutorial, you require continued clarification a particular game, perhaps it's not the game for you
+* If after more than two explanations, and video tutorial, you require continued clarification a particular game, perhaps it's not the game for you
+* Treat game components with respect and care, especially if it is not your game
 * If a game seems "broken"/"designed poorly"/"terrible", more over consistently so, and by continued review it appears to just be only you experiencing this, maybe that game isn't for you
-* If you feel the need to continue complaining about a particular game then you must provide a considerable alternative, suffice to stop complaining, or consider sitting out that day
+* If you feel the need to continue complaining about a particular game then you must provide a viable alternative, cease complaining, or consider sitting out that day
+* Players are expected play to the best of their abilities (not to piss off or target others)
+
+### Sanctions
+
+* Apologize when appropriate
+* Ameliorate the situation (e.g., pay for damaged game; buy person a lunch)
+
+Continued violations may result in ejection from the group, by process of consensus of active and long standing members.
 
 ### Code of Conduct
 
 #### Our Pledge
 
 In the interest of fostering an open and welcoming environment, we pledge to
-making participation in our community a contsent based, harassment-free
+making participation in our community a consent based, harassment-free
 experience for everyone, regardless of age, body size, disability, ethnicity,
 gender identity and expression, level of experience, nationality, personal
 appearance, race, religion, or sexual identity and orientation.
