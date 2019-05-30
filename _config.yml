@@ -1,3 +1,27 @@
-theme: jekyll-theme-minimal
-title: zargon
-logo: https://raw.githubusercontent.com/zrgn/assets/master/zargon_face.png
+title: Zargon
+email: webmaster@zargon.us
+description: >- # this means to ignore newlines until "baseurl:"
+  The home for Zargon on the web
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://zargon.us"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - bower_components
+  - bower.json
+  - scripts
+  - LICENSE
+  - .gitignore
+  - package.json
+  - package-lock.json
+  - node_modules
+  - README.md
+  - Gruntfile.js
+  - .eslintrc.json
+
+kramdown:
+  hard_wrap: false

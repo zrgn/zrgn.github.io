@@ -1,0 +1,29 @@
+{
+  "name": "zargon-now.github.io",
+  "version": "1.0.0",
+  "description": "Home for zargon on the web",
+  "main": "index.js",
+  "scripts": {
+    "lint-eslint": "./node_modules/.bin/eslint Gruntfile.js",
+    "lint": "npm run lint-eslint",
+    "build": "npm run lint && grunt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zargon-now/zargon-now.github.io.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zargon-now/zargon-now.github.io/issues"
+  },
+  "homepage": "https://github.com/zargon-now/zargon-now.github.io#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "grunt": "^1.0.4",
+    "grunt-bowercopy": "^1.2.3",
+    "grunt-contrib-clean": "^2.0.0"
+  },
+  "dependencies": {}
+}
