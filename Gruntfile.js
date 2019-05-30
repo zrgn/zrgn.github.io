@@ -1,14 +1,31 @@
 module.exports = function (grunt) {
     grunt.initConfig({
-        bower: { install: { options: {
-            copy: true,
-            targetDir: 'assets'
-        } } },
-        clean: [ 'assets', 'bower_components' ]
+        bowercopy: {
+            options: {
+                clean: true,
+                runBower: true
+            },
+            sass: {
+                options: { destPrefix: '_sass/vendor' },
+                files: {
+                    'bulma/sass': 'bulma/sass',
+                    'bulma/bulma.sass': 'bulma/bulma.sass'
+                }
+            },
+            js: {
+                options: { destPrefix: 'assets/vendor/js' },
+                files: {
+                    'jquery/jquery.min.js': 'jquery/dist/jquery.min.js',
+                    'jquery/jquery.min.map': 'jquery/dist/jquery.min.map'
+                }
+            }
+        },
+
+        clean: [ 'assets/vendor', '_sass/vendor', 'bower_components' ]
     });
 
-    grunt.loadNpmTasks('grunt-bower-task');
+    grunt.loadNpmTasks('grunt-bowercopy');
     grunt.loadNpmTasks('grunt-contrib-clean');
 
-    grunt.registerTask('default', [ 'clean', 'bower' ]);
+    grunt.registerTask('default', [ 'clean', 'bowercopy' ]);
 };

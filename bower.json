@@ -18,10 +18,5 @@
   "dependencies": {
     "jquery": "^3.4.1",
     "bulma": "^0.7.4"
-  },
-  "exportsOverride": {
-    "bulma": {
-      "css": "css/*.css"
-    }
   }
 }
