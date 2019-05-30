@@ -1,3 +1,7 @@
+---
+title: Bylaws
+layout: standard-page
+---
 # Zargon
 
 ## Bylaws
