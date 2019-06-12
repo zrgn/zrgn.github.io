@@ -16,29 +16,35 @@ exploring strategies, design, progress and history of gaming
   sake of the invitee and the group
 * If the group at large does not like a guest then that guest may not be allowed
   at future events
-* Players are expected to observe basic personal hygiene
+* Players are expected to maintain basic personal hygiene
 * Guests are expected to be gracious and respect additional restrictions of
-  venue (e.g., no smoking inside; no young children; allergens)
+  venue (e.g. no smoking inside; no young children; allergy considerations)
 
 ### Games
-* If after more than two explanations, and video tutorial, you require continued
-  clarification a particular game, perhaps it's not the game for you
+* Exhibit good sportsmanship. Be gracious in both victory and defeat
+* Players shall play to the best of their abilities (and not for the purpose of
+  antagonizing or targeting others)
+* Cheating is prohibited and viewed as a grievous violation of the Spirit of
+  Zargon
+* If after a few initial explanations of a game's rule, a player requires
+  continual clarification, that player may be expected to abstain from the game
+  until he or she can master the rules outside of gaming sessions.  Watching
+  video tutorials, private study, or explicit "learning games" are the onus of
+  the individual, not the group
 * Treat game components with respect and care, especially if it is not your game
-* If a game seems "broken"/"designed poorly"/"terrible", more over consistently
-  so, and by continued review it appears to just be only you experiencing this,
-  maybe that game isn't for you
-* If you feel the need to continue complaining about a particular game then you
-  must provide a viable alternative, cease complaining, or consider sitting out
-  that day
-* Players are expected play to the best of their abilities (not to piss off or
-  target others)
+* Players shall not repeatedly gripe, grouse, whinge, or whine about the design
+  of a game.  Players are expected to have the self-awareness to abstain from
+  games that they dislike
+* Players seeking to make improvements to a game should offer suggestions
+  constructively by making concrete proposals for house rules
 
 ### Sanctions
 * Apologize when appropriate
-* Ameliorate the situation (e.g., pay for damaged game; buy person a lunch)
+* Ameliorate the situation (e.g. repair or replace a damaged game; buy person a
+  lunch to mend things)
 
 Continued violations may result in ejection from the group, by process of
-consensus of active and long standing members.
+consensus of active and long-standing members.
 
 ### Code of Conduct
 
