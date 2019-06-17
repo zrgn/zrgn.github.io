@@ -38,6 +38,13 @@ exploring strategies, design, progress and history of gaming
 * Players seeking to make improvements to a game should offer suggestions
   constructively by making concrete proposals for house rules
 
+### Infractions
+* It is incumbent on players to bring issues to the attention of the general 
+  group.  An issue can't be addressed if no one else is aware it exists.  Either 
+  bring up the issue directly with the other player or speak to some of the 
+  other members that you are close with.  If they agree that it's an issue that 
+  needs addressing, the matter should be brought to a group as a whole for discussion.
+
 ### Sanctions
 * Apologize when appropriate
 * Ameliorate the situation (e.g. repair or replace a damaged game; buy person a
