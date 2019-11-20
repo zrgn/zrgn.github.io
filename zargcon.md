@@ -7,9 +7,9 @@ layout: standard-page
 
 ZargCon is an annual weekend of gaming: board, video, roleplaying, and otherwise. It began with a small group in 2015. ZargCon is a volunteer effort and our fees are always intended to cover our bare minimum expenses.
 
-## How do I register
+## How do I register?
 
-Use this link https://www.paypal.me/smunilla and send $5 USD per person in your group. In the payment notes, provide the full name of each attendee you are paying for. Badges will be provided at the door.
+Use [this link](https://www.paypal.me/smunilla) and send $5 USD per person in your group. In the payment notes, provide the full name of each attendee you are paying for. Badges will be provided at the door.
 
 ## Event Rules
 
