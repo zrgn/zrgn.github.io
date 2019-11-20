@@ -7,6 +7,19 @@ layout: standard-page
 
 ZargCon is an annual weekend of gaming: board, video, roleplaying, and otherwise. It began with a small group in 2015. ZargCon is a volunteer effort and our fees are always intended to cover our bare minimum expenses.
 
+## When is it?
+
+7—8 December 2019 from 9 a.m to 9 p.m. both days.
+
+## Where is it?
+
+In 2019, we are being hosted by the [Red Hat Tower
+Annex](https://goo.gl/maps/1xa2pdhQokqDxsq57).
+
+* Because this is the place of employment for many of our members, we ask that all attendees take extra care to respect the venue
+* Drinks and snacks provided by Red Hat will not be available to our attendees
+
+
 ## How do I register?
 
 Use [this link](https://www.paypal.me/smunilla) and send $5 USD per person in your group. In the payment notes, provide the full name of each attendee you are paying for. Badges will be provided at the door.
@@ -20,17 +33,6 @@ Use [this link](https://www.paypal.me/smunilla) and send $5 USD per person in yo
 1. Label any games you bring as belonging to you somehow.
     * e.g. a sticker on the inside box cover, a business card in the game components
 1. All attendees are expected to adhere to the Zargon Organization bylaws (https://zrgn.github.io/)
-
-## When is it?
-
-7—8 December 2019
-
-## Where is it?
-
-In 2019, we are being hosted by Red Hat Tower Annex.
-
-* Because this is the place of employment for many of our members, we ask that all attendees take extra care to respect the venue
-* Drinks and snacks provided by Red Hat will not be available to our attendees
 
 ## What should I bring?
 
