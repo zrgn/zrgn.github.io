@@ -9,7 +9,7 @@ ZargCon is an annual weekend of gaming: board, video, roleplaying, and otherwise
 
 ## When is it?
 
-7—8 December 2019 from 9 a.m to 9 p.m. both days.
+7—8 December 2019 from 9 a.m to 9 p.m. both days. [Add to Google Cal](https://calendar.google.com/calendar/r/eventedit?text=ZargCon&dates=20191207T140000Z/20191209T020000Z&ctz=America/New_York&details=For+details:+https://zrgn.github.io/zargcon.html&location=Red+Hat+Annex).
 
 ## Where is it?
 
