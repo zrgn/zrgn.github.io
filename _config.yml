@@ -1,9 +1,9 @@
 title: Zargon
-email: webmaster@zargon.us
+email: webmaster@zrgn.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   The home for Zargon on the web
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zargon.us"
+url: "https://zrgn.github.io/"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
