@@ -83,7 +83,7 @@ Examples of unacceptable behavior by members include:
   advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing other's private information, such as a physical or electronic
+* Publishing another member's private information, such as a physical or electronic
   address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
@@ -95,4 +95,3 @@ immediately.
 This code of conduct is adapted from the [Contributor
 Covenant](http://contributor-covenant.org/), specifically [version
 1.4](http://contributor-covenant.org/version/1/4).
-
