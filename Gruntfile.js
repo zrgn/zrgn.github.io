@@ -9,14 +9,23 @@ module.exports = function (grunt) {
                 options: { destPrefix: '_sass/vendor' },
                 files: {
                     'bulma/sass': 'bulma/sass',
-                    'bulma/bulma.sass': 'bulma/bulma.sass'
+                    'bulma/bulma.sass': 'bulma/bulma.sass',
+                    'reveal': 'reveal.js/css',
                 }
             },
-            js: {
-                options: { destPrefix: 'assets/vendor/js' },
+            jquery: {
+                options: { destPrefix: 'assets/vendor/jquery' },
                 files: {
-                    'jquery/jquery.min.js': 'jquery/dist/jquery.min.js',
-                    'jquery/jquery.min.map': 'jquery/dist/jquery.min.map'
+                    'jquery.min.js': 'jquery/dist/jquery.min.js',
+                    'jquery.min.map': 'jquery/dist/jquery.min.map',
+                }
+            },
+            reveal: {
+                options: { destPrefix: 'assets/vendor/reveal' },
+                files: {
+                    'reveal.js': 'reveal.js/dist/reveal.js',
+                    'reveal.css': 'reveal.js/dist/reveal.css',
+                    'plugin': 'reveal.js/plugin',
                 }
             }
         },

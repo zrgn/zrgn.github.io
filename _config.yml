@@ -23,5 +23,11 @@ exclude:
   - Gruntfile.js
   - .eslintrc.json
 
+defaults:
+  - scope:
+      path: "presentations"
+    values:
+      layout: "presentation"
+
 kramdown:
   hard_wrap: false

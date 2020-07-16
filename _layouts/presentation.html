@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+{% capture reveal_home %}{{ site.baseurl }}/assets/vendor/reveal{% endcapture %}
+{% assign theme = page.theme %}
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+
+    <meta name="description" content=" {{ page.description }} "/>
+    <meta name="author" content="{{ page.author }}">
+
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+
+    <link rel="stylesheet" href="{{ reveal_home }}/reveal.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/{{ theme }}" id="theme"/>
+
+    <!-- Printing and PDF exports -->
+    <script type="text/javascript">
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = window.location.search.match( /print-pdf/gi ) ? '{{ site.baseurl }}/assets/pdf.css' : '{{ site.baseurl }}/assets/paper.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    </script>
+  </head>
+
+  <body>
+    <script type="text/javascript" src="{{ reveal_home }}/reveal.js"></script>
+    <script type="text/javascript" src="{{ reveal_home }}/plugin/markdown/markdown.js"></script>
+    <script type="text/javascript" src="{{ reveal_home }}/plugin/notes/notes.js"></script>
+
+    <div class="reveal">
+      <div class="slides">
+        {{ content }}
+      </div>
+    </div>
+
+    <script type="text/javascript">
+      // Full list of configuration options available at:
+      // https://github.com/hakimel/reveal.js#configuration
+      Reveal.initialize({
+        controls: true,
+        progress: true,
+        history: true,
+        center: true,
+        width: 1600,
+        height: 900,
+        transition: 'slide', // none/fade/slide/convex/concave/zoom
+        plugins: [ RevealMarkdown, RevealNotes ]
+      });
+    </script>
+  </body>
+</html>
