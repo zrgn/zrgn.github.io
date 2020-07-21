@@ -10,18 +10,63 @@ layout: standard-page
 Good humored, cooperative, competitive, consensual torture, for the purposes of
 exploring strategies, design, progress and history of gaming
 
-### Members
-* There is no single leader of the Zargon community. Zargon is a community run
-  effort. All members are encouraged to participate in this effort.
-* You may invite new members to join in gaming, but they are your
-  responsibility.
-* New invitees should come to provisional games (e.g., Friday games, or similar
-  virtual games) for the sake of the invitee and the community.
-* If community members at large do not like a guest then that guest may not be
-  invited to future events.
+## Membership
+There is no single leader of the Zargon community. Zargon is a community run
+effort. All members are encouraged to participate in this effort.
+
+The following guidelines are intended to allow us to maintain an inclusive
+environment where all members feel comfortable gaming with any other member of
+the group rather than fracturing into cliques. They are enumerated in detail so
+as to mitigate subjectivity in role assignment.
+
+### Obligations
 * Members are expected to maintain basic personal hygiene.
 * Members are expected to be gracious and respect additional restrictions of
-  venue (e.g. no smoking inside; no young children; allergy considerations).
+  venue
+    - e.g. no smoking inside; no young children; allergy considerations.
+
+### Active Members
+* An active member is one who regularly does one or more of the following:
+  - Attends and particpates in scheduled gaming
+  - Attends and participates in social events
+  - Participates in virtual group conversations (e.g. text, voice, video)
+* Active members are noted by the **Zargonaut** role in the group discord.
+
+### Contributing Members
+* A contributing member is an active member who also regularly does one or more
+ of the following:
+  - Schedules game sessions
+  - Schedules social events
+  - Brings new games for the group to try
+  - Teaches games at gaming events
+  - Creates content to aid the group (e.g. rules handouts, character
+    illustrations, game storage solutions)
+  - Contributes to group infrastructure (commits to websites or bots, server
+    administration, etc.)
+* An active member who feels they are making sufficient contributions should
+  bring this to the attention of one of the contributing members.
+* Contributing members are noted by the **Adept** role in the group discord.
+
+### New Members
+* Any active member in good standing may invite a non-member to join social
+  or gaming events, but takes responsibility for their behavior.
+  - In the case of a virtual event, they will be assigned the **Attendee** role
+    in the group discord.
+  - The **Attendee** role is temporary and will be removed once the event
+    concludes.
+* Any active member in good standing may nominate a previously-introduced
+  individual for full membership.
+* A nominated individual will then be considered as follows:
+  - Three(3) **Adept** members must vote in the affirmative.
+  - A single negative vote will prevent promotion to full membership until it is
+    resolved.
+    - A member voting in the negative is expected to explain their reasoning to
+      the group.
+    - If the situation can be resolved to the satisfaction of the voting member,
+      they may of course change their vote.
+  - **Zargonaut** members are encouraged to give their opinion of the nominee,
+    but their vote will not contribute to the three-count. However, a negative
+    vote will be strongly considered.
 
 ### Games
 * Exhibit good sportsmanship. Be gracious in both victory and defeat.
@@ -83,7 +128,7 @@ Examples of unacceptable behavior by members include:
   advances
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
-* Publishing another member's private information, such as a physical or electronic
+* Publishing someones's private information, such as a physical or electronic
   address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
