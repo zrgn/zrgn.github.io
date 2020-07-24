@@ -6,11 +6,11 @@ layout: standard-page
 
 ## Bylaws
 
-### Objectives
+### [Objectives](#objectives)
 Good humored, cooperative, competitive, consensual torture, for the purposes of
 exploring strategies, design, progress and history of gaming
 
-## Membership
+## [Membership](#membership)
 There is no single leader of the Zargon community. Zargon is a community run
 effort. All members are encouraged to participate in this effort.
 
@@ -19,20 +19,20 @@ environment where all members feel comfortable gaming with any other member of
 the group rather than fracturing into cliques. They are enumerated in detail so
 as to mitigate subjectivity in role assignment.
 
-### Obligations
+### [Obligations](#obligations)
 * Members are expected to maintain basic personal hygiene.
 * Members are expected to be gracious and respect additional restrictions of
   venue
     - e.g. no smoking inside; no young children; allergy considerations.
 
-### Active Members
+### [Active Members](#active-members)
 * An active member is one who regularly does one or more of the following:
   - Attends and particpates in scheduled gaming
   - Attends and participates in social events
   - Participates in virtual group conversations (e.g. text, voice, video)
 * Active members are noted by the **Zargonaut** role in the group discord.
 
-### Contributing Members
+### [Contributing Members](#contributing-members)
 * A contributing member is an active member who also regularly does one or more
  of the following:
   - Schedules game sessions
@@ -47,7 +47,7 @@ as to mitigate subjectivity in role assignment.
   bring this to the attention of one of the contributing members.
 * Contributing members are noted by the **Adept** role in the group discord.
 
-### New Members
+### [New Members](#new-members)
 * Any active member in good standing may invite a non-member to join social
   or gaming events, but takes responsibility for their behavior.
   - In the case of a virtual event, they will be assigned the **Attendee** role
@@ -68,7 +68,7 @@ as to mitigate subjectivity in role assignment.
     but their vote will not contribute to the three-count. However, a negative
     vote will be strongly considered.
 
-### Games
+### [Games](#games)
 * Exhibit good sportsmanship. Be gracious in both victory and defeat.
 * Members shall play to the best of their abilities (and not for the purpose of
   antagonizing or targeting others).
@@ -87,7 +87,7 @@ as to mitigate subjectivity in role assignment.
 * Members seeking to make improvements to a game should offer suggestions
   constructively by making concrete proposals for house rules.
 
-### Infractions
+### [Infractions](#infractions)
 It is incumbent on members to bring issues to the attention of the community.
 An issue can't be addressed if no one else is aware it exists. Either bring up
 the issue directly with the other member or speak to some of the other members
@@ -95,7 +95,7 @@ that you are close with. If they agree that it's an issue that needs
 addressing, the matter should be brought to the community as a whole for
 discussion.
 
-### Sanctions
+### [Sanctions](#sanctions)
 * Apologize when appropriate
 * Ameliorate the situation (e.g. repair or replace a damaged game; buy person a
   lunch to mend things)
@@ -103,16 +103,16 @@ discussion.
 Continued violations may result in ejection from the community, by process of
 consensus of active and long-standing members.
 
-### Code of Conduct
+### [Code of Conduct](#code-of-conduct)
 
-#### Our Pledge
+#### [Our Pledge](#our-pledge)
 In the interest of fostering an open and welcoming environment, we pledge to
 make participation in our community a consent based, harassment-free
 experience for everyone, regardless of age, body size, disability, ethnicity,
 gender identity and expression, level of experience, nationality, personal
 appearance, race, religion, or sexual identity and orientation.
 
-#### Our Standards
+#### [Our Standards](#our-standards)
 Examples of behavior that contributes to creating a positive environment
 include:
 
