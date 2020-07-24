@@ -89,19 +89,57 @@ as to mitigate subjectivity in role assignment.
 
 ### [Infractions](#infractions)
 It is incumbent on members to bring issues to the attention of the community.
-An issue can't be addressed if no one else is aware it exists. Either bring up
-the issue directly with the other member or speak to some of the other members
-that you are close with. If they agree that it's an issue that needs
-addressing, the matter should be brought to the community as a whole for
-discussion.
+An issue can't be addressed if no one else is aware it exists. Ideally, members
+should bring up the issue directly with the other member, solving it privately.
 
-### [Sanctions](#sanctions)
-* Apologize when appropriate
-* Ameliorate the situation (e.g. repair or replace a damaged game; buy person a
-  lunch to mend things)
+If private resolution is unsuccessful or if members are uncomfortable discussing
+the matter with the other member, the issue should be brought to the attention
+of the [Adepts](#contributing-members) and will move through the conflict
+resolution procedure described below.  Note that it is not necessary to relay
+the particulars of a conflict to the Adepts in order to begin conflict
+resolution.
 
-Continued violations may result in ejection from the community, by process of
-consensus of active and long-standing members.
+### [Conflict Resolution](#conflict-resolution)
+
+#### [Mediation](#mediation)
+Formal conflict resolution will initially begin with mediation.  A mediator will
+be selected from the [Adept](#contributing-members) group either by mutual
+agreement between the two conflicting parties or via selection of a
+disinterested party by the Adepts.
+
+The mediator facilitates a discussion between the two parties, attempting to
+gather facts behind the conflict, and for proposing an amicable solution.
+Mediation is expected to remain a private matter between the two parties and the
+mediator.  If the two parties are still unable to reach a solution, the process
+moves to arbitration.  Arbitration is considered to be a last resort and all
+effort should be made to resolve the conflict during mediation.
+
+#### [Arbitration](#arbitration)
+Both parties will write a document outlining their version of events and the
+nature of the conflict.  Five disinterested adepts (not including the initial
+mediator) will be selected at random to serve as arbiters.  The mediator will
+present any relevant background and should the arbiters have additional
+questions, the mediator may be asked to gather additional information.  The
+arbiters will discuss the matter alone and assign sanctions.  Sanctions include:
+
+  * A formal warning
+  * A temporary ban on gaming
+  * A temporary ban from Discord
+  * A permanent ban on gaming
+  * A permanent ban from Discord
+  * A permanent ban from Zargon
+  * Other restorative actions that are deemed appropriate: e.g. replacing a
+    damaged game
+
+A simple majority of arbiters must agree on any sanction.  The exception to that
+rule is a permanent ban from Zargon.  That decision must be unanimous.
+
+Note that sanctions may be applied to either party as the arbiters see fit.
+Refusal by any party to accept the arbiters' decision gracefully will result in
+further and more severe sanction.  The mediator will be responsible for
+overseeing the application of any sanctions, and any sanctions applied will only
+be made known publicly if they are permanent.  All participants are expected to
+refrain from gossip.
 
 ### [Code of Conduct](#code-of-conduct)
 
