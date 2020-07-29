@@ -10,6 +10,39 @@ layout: standard-page
 Good humored, cooperative, competitive, consensual torture, for the purposes of
 exploring strategies, design, progress and history of gaming
 
+### [Code of Conduct](#code-of-conduct)
+
+#### [Our Pledge](#our-pledge)
+In the interest of fostering an open and welcoming environment, we pledge to
+make participation in our community a consent based, harassment-free
+experience for everyone, regardless of age, body size, disability, ethnicity,
+gender identity and expression, level of experience, nationality, personal
+appearance, race, religion, or sexual identity and orientation.
+
+#### [Our Standards](#our-standards)
+Examples of behavior that contributes to creating a positive environment
+include:
+
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
+
+Examples of unacceptable behavior by members include:
+
+* The use of sexualized language or imagery and unwelcome sexual attention or
+  advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing someones's private information, such as a physical or electronic
+  address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
+
+Members asked to stop any unacceptable behavior are expected to comply
+immediately.
+
 ## [Membership](#membership)
 There is no single leader of the Zargon community. Zargon is a community run
 effort. All members are encouraged to participate in this effort.
@@ -140,39 +173,6 @@ further and more severe sanction.  The mediator will be responsible for
 overseeing the application of any sanctions, and any sanctions applied will only
 be made known publicly if they are permanent.  All participants are expected to
 refrain from gossip.
-
-### [Code of Conduct](#code-of-conduct)
-
-#### [Our Pledge](#our-pledge)
-In the interest of fostering an open and welcoming environment, we pledge to
-make participation in our community a consent based, harassment-free
-experience for everyone, regardless of age, body size, disability, ethnicity,
-gender identity and expression, level of experience, nationality, personal
-appearance, race, religion, or sexual identity and orientation.
-
-#### [Our Standards](#our-standards)
-Examples of behavior that contributes to creating a positive environment
-include:
-
-* Using welcoming and inclusive language
-* Being respectful of differing viewpoints and experiences
-* Gracefully accepting constructive criticism
-* Focusing on what is best for the community
-* Showing empathy towards other community members
-
-Examples of unacceptable behavior by members include:
-
-* The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
-* Trolling, insulting/derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing someones's private information, such as a physical or electronic
-  address, without explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
-
-Members asked to stop any unacceptable behavior are expected to comply
-immediately.
 
 #### Thanks
 This code of conduct is adapted from the [Contributor
