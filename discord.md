@@ -15,7 +15,7 @@ access and all topics and sub-topics will become available.
 # [New Channels](#new-channels)
 
 Our community members are interested in all sorts of weird stuff. But
-not ever hobby receives its own topic or sub-topic. Below are the
+not every hobby receives its own topic or sub-topic. Below are the
 criteria we consider when evaluating whether or not a new
 topic/sub-topic should be created.
 
@@ -57,7 +57,7 @@ with a `!`. For example:
 > `!help`
 
 If you `!help` in a channel Zargon will respond to you in a direct
-message with list of commands and basic descriptions. If you want
+message with a list of commands and basic descriptions. If you want
 additional help with something specific you can run that command with
 `help` added to the end. Let's say you wanted to know what `!random`
 is all about:
