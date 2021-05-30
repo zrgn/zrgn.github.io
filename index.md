@@ -178,3 +178,8 @@ refrain from gossip.
 This code of conduct is adapted from the [Contributor
 Covenant](http://contributor-covenant.org/), specifically [version
 1.4](http://contributor-covenant.org/version/1/4).
+
+## [Discord](#discord)
+
+Information about our discord server (policy, the Zargon bot) is
+located on the [discord](discord.html) page.
